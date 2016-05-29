@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTasks</string>
+    <string name="add">Add Item</string>
+    <string name="add_item">Add a new item ...</string>
+    <string name="save_button">Save</string>
+    <string name="Delete">Delete</string>
+    <string name="edit_item_below">Edit Item Below:</string>
+</resources>
